@@ -33,11 +33,11 @@ The trained model will classify iris flowers into one of the three species based
 # Results
 I have selected recall as the primary evaluation metric for the Iris Flower Classification model. And after removing the overfitted models which have recall, precision, f1 scores for train as 100%, we get the final list:
 
-Sl. No.	Classification Model	Recall Train (%)	Recall Test (%)
-1	Decision Tree tuned	95.24	95.56
-2	Random Forest tuned	97.14	97.78
-3	Naive Bayes	94.28	97.78
-4	Naive Bayes tuned	94.28	97.78
+Sl. No.	Classification Model	Recall Train (%)	Recall Test (%)<br>
+1	Decision Tree tuned	95.24	95.56<br>
+2	Random Forest tuned	97.14	97.78<br>
+3	Naive Bayes	94.28	97.78<br>
+4	Naive Bayes tuned	94.28	97.78<br>
 # Conclusion
 In the Iris flower classification project, the tuned Random Forest model has been selected as the final prediction model. The project aimed to classify Iris flowers into three distinct species: Iris-Setosa, Iris-Versicolor, and Iris-Virginica. After extensive data exploration, preprocessing, and model evaluation, the following conclusions can be drawn:
 
