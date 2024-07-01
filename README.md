@@ -110,10 +110,10 @@ Model Interpretability: Making the model interpretable to provide explanations f
 # Results
 The machine learning model successfully detected fraudulent transactions with a high degree of accuracy. The final model achieved:
 
-Accuracy: 98.5%
-Precision: 97.2%
-Recall: 96.8%
-F1-Score: 97.0%
+Accuracy: 98.5%<br>
+Precision: 97.2%<br>
+Recall: 96.8%<br>
+F1-Score: 97.0%<br>
 The implementation of this model significantly reduced false positives, ensuring fewer legitimate transactions were flagged as fraudulent. The system was also capable of processing transactions in real-time, with an average processing time of 0.5 seconds per transaction.
 
 # Conclusion
