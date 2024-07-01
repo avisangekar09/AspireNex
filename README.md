@@ -1,6 +1,6 @@
 # AspireNex
 # TASK 1 - IRIS FLOWER CLASSIFICATION
-<img src="https://github.com/avisangekar09/AspireNex/blob/main/Iris%20image.jpeg" width="100">
+<img src="https://github.com/avisangekar09/AspireNex/blob/main/Iris%20image.jpeg" width="100%">
 # Problem Statement
 The iris flower, scientifically known as Iris, is a distinctive genus of flowering plants. Within this genus, there are three primary species: Iris setosa, Iris versicolor, and Iris virginica. These species exhibit variations in their physical characteristics, particularly in the measurements of their sepal length, sepal width, petal length, and petal width.
 
@@ -57,7 +57,7 @@ In conclusion, the Iris flower classification project successfully employed Rand
 
 
 # TASK 2 - CREDIT CARD FRAUD DETECTION
-<img src="https://github.com/avisangekar09/AspireNex/blob/main/credit%20card%20fraud%20image.jpeg" width="100">
+<img src="https://github.com/avisangekar09/AspireNex/blob/main/credit%20card%20fraud%20image.jpeg" width="100%">
 # Problem Statement
 Credit card fraud is a significant concern for financial institutions and consumers. The rapid increase in online transactions and advancements in technology have also led to sophisticated methods of committing fraud. This not only results in financial losses but also erodes consumer trust and can damage the reputation of financial institutions. Traditional fraud detection methods are often inadequate in identifying complex and evolving fraud patterns, leading to the need for more robust and intelligent systems to detect and prevent fraudulent activities in real-time.
 
